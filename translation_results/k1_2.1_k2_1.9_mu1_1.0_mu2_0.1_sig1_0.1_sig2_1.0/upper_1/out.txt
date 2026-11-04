@@ -1,0 +1,3722 @@
+Input parameters:
+k1 = 2.1
+k2 = 1.9
+mu1 = 1.0
+mu2 = 0.1
+sig1 = 0.1
+sig2 = 1.0
+f = 0.5
+upper = 4.0
+npts = 40
+n_samples = 50
+calc_type = shear
+bound_type = upper_1
+alphas = 0.5 1.0 2.0 4.0
+--------------------------------------------------
+Using device: cpu
+Projecting initial guess onto feasible set...
+Starting optimization with projected L-BFGS...
+
+Iteration 1
+     f = -2.847037e-01, err = 4.160e-01
+
+Iteration 2
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -5.879077e-01, err = 4.161e-01
+
+Iteration 3
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -7.510774e-01, err = 3.151e-01
+
+Iteration 4
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -8.341458e-01, err = 2.374e-01
+
+Iteration 5
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -8.853573e-01, err = 1.920e-01
+
+Iteration 6
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.165160e-01, err = 1.630e-01
+
+Iteration 7
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.365153e-01, err = 1.450e-01
+
+Iteration 8
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.515762e-01, err = 1.330e-01
+
+Iteration 9
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.634276e-01, err = 1.226e-01
+
+Iteration 10
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.732632e-01, err = 1.148e-01
+
+Iteration 11
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.834086e-01, err = 1.085e-01
+
+Iteration 12
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.931191e-01, err = 1.018e-01
+
+Iteration 13
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.000941e+00, err = 9.479e-02
+
+Iteration 14
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.007196e+00, err = 8.816e-02
+
+Iteration 15
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.012511e+00, err = 8.256e-02
+
+Iteration 16
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.017265e+00, err = 7.757e-02
+
+Iteration 17
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.020855e+00, err = 7.304e-02
+
+Iteration 18
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.023657e+00, err = 6.917e-02
+
+Iteration 19
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.025837e+00, err = 6.593e-02
+
+Iteration 20
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.027684e+00, err = 6.341e-02
+
+Iteration 21
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.029227e+00, err = 6.119e-02
+
+Iteration 22
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.030634e+00, err = 5.942e-02
+
+Iteration 23
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.031994e+00, err = 5.794e-02
+
+Iteration 24
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.033357e+00, err = 5.643e-02
+
+Iteration 25
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.034839e+00, err = 5.480e-02
+
+Iteration 26
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.036090e+00, err = 5.326e-02
+
+Iteration 27
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.037226e+00, err = 5.221e-02
+
+Iteration 28
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.038242e+00, err = 5.161e-02
+
+Iteration 29
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.039174e+00, err = 5.143e-02
+
+Iteration 30
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.040078e+00, err = 5.139e-02
+
+Iteration 31
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.040929e+00, err = 5.130e-02
+
+Iteration 32
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.041784e+00, err = 5.115e-02
+
+Iteration 33
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.042859e+00, err = 5.100e-02
+
+Iteration 34
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.043823e+00, err = 5.103e-02
+
+Iteration 35
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.044580e+00, err = 5.111e-02
+
+Iteration 36
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.045622e+00, err = 5.081e-02
+
+Iteration 37
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.046623e+00, err = 5.064e-02
+
+Iteration 38
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.047306e+00, err = 5.075e-02
+
+Iteration 39
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.047840e+00, err = 5.102e-02
+
+Iteration 40
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.048267e+00, err = 5.139e-02
+
+Iteration 41
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.048730e+00, err = 5.181e-02
+
+Iteration 42
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.049158e+00, err = 5.244e-02
+
+Iteration 43
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.049504e+00, err = 5.317e-02
+
+Iteration 44
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.049840e+00, err = 5.389e-02
+
+Iteration 45
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050084e+00, err = 5.482e-02
+
+Iteration 46
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050259e+00, err = 5.573e-02
+
+Iteration 47
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050436e+00, err = 5.661e-02
+
+Iteration 48
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050508e+00, err = 5.746e-02
+
+Iteration 49
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050585e+00, err = 5.811e-02
+
+Iteration 50
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050642e+00, err = 5.873e-02
+
+Iteration 51
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050660e+00, err = 5.915e-02
+
+Iteration 52
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050699e+00, err = 5.954e-02
+
+Iteration 53
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050706e+00, err = 5.996e-02
+
+Iteration 54
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050710e+00, err = 6.028e-02
+
+Iteration 55
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050748e+00, err = 6.060e-02
+
+Iteration 56
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.050733e+00, err = 6.089e-02
+
+Iteration 57
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050761e+00, err = 6.104e-02
+
+Iteration 58
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050771e+00, err = 6.129e-02
+
+Iteration 59
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.050747e+00, err = 6.158e-02
+
+Iteration 60
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050777e+00, err = 6.170e-02
+
+Iteration 61
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050782e+00, err = 6.195e-02
+
+Iteration 62
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050806e+00, err = 6.230e-02
+
+Iteration 63
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.5789e-01...
+     Line search iteration 3 with step size 3.3438e-03...
+     Line search iteration 4 with step size 1.4682e-06...
+     Line search iteration 5 with step size 2.8292e-13...
+     Line search failed.
+     f = -1.050746e+00, err = 6.266e-02
+
+Iteration 64
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050820e+00, err = 6.287e-02
+
+Iteration 65
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050832e+00, err = 6.304e-02
+
+Iteration 66
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050848e+00, err = 6.333e-02
+
+Iteration 67
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 4.0066e-02...
+     Line search iteration 3 with step size 6.0853e-05...
+     Line search iteration 4 with step size 1.4016e-10...
+     Line search iteration 5 with step size 7.4351e-22...
+     Line search failed.
+     f = -1.050821e+00, err = 6.358e-02
+
+Iteration 68
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050831e+00, err = 6.375e-02
+
+Iteration 69
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050857e+00, err = 6.390e-02
+
+Iteration 70
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1509e-01...
+     Line search iteration 3 with step size 1.3372e-03...
+     Line search iteration 4 with step size 1.7841e-07...
+     Line search iteration 5 with step size 3.1753e-15...
+     Line search failed.
+     f = -1.050838e+00, err = 6.419e-02
+
+Iteration 71
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050850e+00, err = 6.434e-02
+
+Iteration 72
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050851e+00, err = 6.444e-02
+
+Iteration 73
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050852e+00, err = 6.458e-02
+
+Iteration 74
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050857e+00, err = 6.476e-02
+
+Iteration 75
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050858e+00, err = 6.491e-02
+
+Iteration 76
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050858e+00, err = 6.504e-02
+
+Iteration 77
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.0980e-01...
+     Line search iteration 3 with step size 7.5581e-03...
+     Line search iteration 4 with step size 9.4668e-06...
+     Line search iteration 5 with step size 1.4834e-11...
+     Line search failed.
+     f = -1.050836e+00, err = 6.514e-02
+
+Iteration 78
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050858e+00, err = 6.519e-02
+
+Iteration 79
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050862e+00, err = 6.515e-02
+
+Iteration 80
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050876e+00, err = 6.512e-02
+
+Iteration 81
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050924e+00, err = 6.501e-02
+
+Iteration 82
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.051010e+00, err = 6.475e-02
+
+Iteration 83
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.051224e+00, err = 6.434e-02
+
+Iteration 84
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.051595e+00, err = 6.389e-02
+
+Iteration 85
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.051924e+00, err = 6.377e-02
+
+Iteration 86
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052164e+00, err = 6.404e-02
+
+Iteration 87
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052305e+00, err = 6.451e-02
+
+Iteration 88
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052433e+00, err = 6.509e-02
+
+Iteration 89
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052505e+00, err = 6.574e-02
+
+Iteration 90
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052530e+00, err = 6.628e-02
+
+Iteration 91
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052589e+00, err = 6.671e-02
+
+Iteration 92
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052607e+00, err = 6.707e-02
+
+Iteration 93
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052627e+00, err = 6.738e-02
+
+Iteration 94
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.052609e+00, err = 6.763e-02
+
+Iteration 95
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.5943e-01...
+     Line search iteration 3 with step size 3.3428e-03...
+     Line search iteration 4 with step size 1.4307e-06...
+     Line search iteration 5 with step size 2.6191e-13...
+     Line search failed.
+     f = -1.052579e+00, err = 6.779e-02
+
+Iteration 96
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052595e+00, err = 6.790e-02
+
+Iteration 97
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052640e+00, err = 6.810e-02
+
+Iteration 98
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 8.0779e-02...
+     Line search iteration 3 with step size 4.8147e-04...
+     Line search iteration 4 with step size 1.7002e-08...
+     Line search iteration 5 with step size 2.1199e-17...
+     Line search failed.
+     f = -1.052622e+00, err = 6.835e-02
+
+Iteration 99
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052626e+00, err = 6.844e-02
+
+Iteration 100
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052666e+00, err = 6.854e-02
+
+Iteration 101
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.052653e+00, err = 6.872e-02
+
+Iteration 102
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052665e+00, err = 6.882e-02
+
+Iteration 103
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.2917e-03...
+     Line search iteration 3 with step size 1.1231e-08...
+     Line search iteration 4 with step size 2.6975e-19...
+     Line search iteration 5 with step size 0.0000e+00...
+     Line search failed.
+     f = -1.052654e+00, err = 6.895e-02
+
+Iteration 104
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1207e-01...
+     Line search iteration 3 with step size 1.2215e-03...
+     Line search iteration 4 with step size 1.4303e-07...
+     Line search iteration 5 with step size 1.9606e-15...
+     Line search failed.
+     f = -1.052625e+00, err = 6.912e-02
+
+Iteration 105
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052651e+00, err = 6.922e-02
+
+Iteration 106
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.6130e-01...
+     Line search iteration 3 with step size 3.5778e-03...
+     Line search iteration 4 with step size 1.7218e-06...
+     Line search iteration 5 with step size 3.9854e-13...
+     Line search failed.
+     f = -1.052605e+00, err = 6.936e-02
+
+Iteration 107
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052622e+00, err = 6.947e-02
+
+Iteration 108
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052657e+00, err = 6.951e-02
+
+Iteration 109
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1789e-01...
+     Line search iteration 3 with step size 1.4622e-03...
+     Line search iteration 4 with step size 2.2217e-07...
+     Line search iteration 5 with step size 5.1283e-15...
+     Line search failed.
+     f = -1.052629e+00, err = 6.947e-02
+
+Iteration 110
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052634e+00, err = 6.944e-02
+
+Iteration 111
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052646e+00, err = 6.938e-02
+
+Iteration 112
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.052612e+00, err = 6.921e-02
+
+Iteration 113
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052680e+00, err = 6.907e-02
+
+Iteration 114
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0142e-01...
+     Line search iteration 3 with step size 9.4194e-04...
+     Line search iteration 4 with step size 8.0505e-08...
+     Line search iteration 5 with step size 5.8800e-16...
+     Line search failed.
+     f = -1.052613e+00, err = 6.903e-02
+
+Iteration 115
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052701e+00, err = 6.891e-02
+
+Iteration 116
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052773e+00, err = 6.869e-02
+
+Iteration 117
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052887e+00, err = 6.813e-02
+
+Iteration 118
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052960e+00, err = 6.759e-02
+
+Iteration 119
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053049e+00, err = 6.695e-02
+
+Iteration 120
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053071e+00, err = 6.640e-02
+
+Iteration 121
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053156e+00, err = 6.600e-02
+
+Iteration 122
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053191e+00, err = 6.575e-02
+
+Iteration 123
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053268e+00, err = 6.558e-02
+
+Iteration 124
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053507e+00, err = 6.534e-02
+
+Iteration 125
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.054178e+00, err = 6.485e-02
+
+Iteration 126
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.055755e+00, err = 6.370e-02
+
+Iteration 127
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.058634e+00, err = 6.116e-02
+
+Iteration 128
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.061498e+00, err = 5.722e-02
+
+Iteration 129
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.063850e+00, err = 5.493e-02
+
+Iteration 130
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.065694e+00, err = 5.478e-02
+
+Iteration 131
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.067877e+00, err = 5.483e-02
+
+Iteration 132
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.070025e+00, err = 5.472e-02
+
+Iteration 133
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.071590e+00, err = 5.506e-02
+
+Iteration 134
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.073240e+00, err = 5.567e-02
+
+Iteration 135
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.074948e+00, err = 5.631e-02
+
+Iteration 136
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.077002e+00, err = 5.674e-02
+
+Iteration 137
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.078946e+00, err = 5.719e-02
+
+Iteration 138
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.080443e+00, err = 5.766e-02
+
+Iteration 139
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.081541e+00, err = 5.809e-02
+
+Iteration 140
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.082470e+00, err = 5.841e-02
+
+Iteration 141
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.083274e+00, err = 5.864e-02
+
+Iteration 142
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.083981e+00, err = 5.874e-02
+
+Iteration 143
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.084723e+00, err = 5.873e-02
+
+Iteration 144
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.085472e+00, err = 5.860e-02
+
+Iteration 145
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.086205e+00, err = 5.820e-02
+
+Iteration 146
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.086906e+00, err = 5.761e-02
+
+Iteration 147
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.087630e+00, err = 5.703e-02
+
+Iteration 148
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.088508e+00, err = 5.649e-02
+
+Iteration 149
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.089228e+00, err = 5.600e-02
+
+Iteration 150
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.089847e+00, err = 5.575e-02
+
+Iteration 151
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.090452e+00, err = 5.565e-02
+
+Iteration 152
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.090919e+00, err = 5.575e-02
+
+Iteration 153
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091244e+00, err = 5.603e-02
+
+Iteration 154
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091465e+00, err = 5.636e-02
+
+Iteration 155
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091645e+00, err = 5.672e-02
+
+Iteration 156
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091797e+00, err = 5.706e-02
+
+Iteration 157
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091908e+00, err = 5.741e-02
+
+Iteration 158
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.091978e+00, err = 5.774e-02
+
+Iteration 159
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092041e+00, err = 5.800e-02
+
+Iteration 160
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092113e+00, err = 5.830e-02
+
+Iteration 161
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092129e+00, err = 5.860e-02
+
+Iteration 162
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092169e+00, err = 5.890e-02
+
+Iteration 163
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092243e+00, err = 5.919e-02
+
+Iteration 164
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1899e-01...
+     Line search iteration 3 with step size 1.4169e-03...
+     Line search iteration 4 with step size 1.9838e-07...
+     Line search iteration 5 with step size 3.8881e-15...
+     Line search failed.
+     f = -1.092220e+00, err = 5.945e-02
+
+Iteration 165
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092263e+00, err = 5.971e-02
+
+Iteration 166
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092290e+00, err = 5.977e-02
+
+Iteration 167
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092353e+00, err = 6.006e-02
+
+Iteration 168
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092370e+00, err = 6.029e-02
+
+Iteration 169
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092385e+00, err = 6.052e-02
+
+Iteration 170
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092387e+00, err = 6.073e-02
+
+Iteration 171
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092445e+00, err = 6.088e-02
+
+Iteration 172
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 4.7193e-02...
+     Line search iteration 3 with step size 9.5332e-05...
+     Line search iteration 4 with step size 3.8819e-10...
+     Line search iteration 5 with step size 6.4365e-21...
+     Line search failed.
+     f = -1.092427e+00, err = 6.108e-02
+
+Iteration 173
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092466e+00, err = 6.131e-02
+
+Iteration 174
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092488e+00, err = 6.136e-02
+
+Iteration 175
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092526e+00, err = 6.163e-02
+
+Iteration 176
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092534e+00, err = 6.186e-02
+
+Iteration 177
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 8.1300e-02...
+     Line search iteration 3 with step size 4.9480e-04...
+     Line search iteration 4 with step size 1.8216e-08...
+     Line search iteration 5 with step size 2.4688e-17...
+     Line search failed.
+     f = -1.092489e+00, err = 6.195e-02
+
+Iteration 178
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092502e+00, err = 6.205e-02
+
+Iteration 179
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092588e+00, err = 6.210e-02
+
+Iteration 180
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 9.6917e-02...
+     Line search iteration 3 with step size 7.9865e-04...
+     Line search iteration 4 with step size 5.3774e-08...
+     Line search iteration 5 with step size 2.4376e-16...
+     Line search failed.
+     f = -1.092549e+00, err = 6.232e-02
+
+Iteration 181
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092602e+00, err = 6.259e-02
+
+Iteration 182
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092668e+00, err = 6.259e-02
+
+Iteration 183
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092718e+00, err = 6.285e-02
+
+Iteration 184
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092718e+00, err = 6.309e-02
+
+Iteration 185
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092771e+00, err = 6.317e-02
+
+Iteration 186
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092803e+00, err = 6.333e-02
+
+Iteration 187
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092829e+00, err = 6.351e-02
+
+Iteration 188
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 9.6317e-02...
+     Line search iteration 3 with step size 7.2449e-04...
+     Line search iteration 4 with step size 4.0647e-08...
+     Line search iteration 5 with step size 1.2794e-16...
+     Line search failed.
+     f = -1.092815e+00, err = 6.370e-02
+
+Iteration 189
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092866e+00, err = 6.396e-02
+
+Iteration 190
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092963e+00, err = 6.392e-02
+
+Iteration 191
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.092990e+00, err = 6.414e-02
+
+Iteration 192
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093005e+00, err = 6.435e-02
+
+Iteration 193
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093055e+00, err = 6.450e-02
+
+Iteration 194
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093076e+00, err = 6.462e-02
+
+Iteration 195
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.4867e-01...
+     Line search iteration 3 with step size 2.8148e-03...
+     Line search iteration 4 with step size 9.9003e-07...
+     Line search iteration 5 with step size 1.2243e-13...
+     Line search failed.
+     f = -1.093042e+00, err = 6.472e-02
+
+Iteration 196
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093092e+00, err = 6.484e-02
+
+Iteration 197
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093216e+00, err = 6.482e-02
+
+Iteration 198
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093360e+00, err = 6.487e-02
+
+Iteration 199
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093582e+00, err = 6.481e-02
+
+Iteration 200
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.093964e+00, err = 6.460e-02
+
+Iteration 201
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.094529e+00, err = 6.414e-02
+
+Iteration 202
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.095076e+00, err = 6.349e-02
+
+Iteration 203
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.095708e+00, err = 6.275e-02
+
+Iteration 204
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.096183e+00, err = 6.188e-02
+
+Iteration 205
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.096726e+00, err = 6.114e-02
+
+Iteration 206
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.097286e+00, err = 6.028e-02
+
+Iteration 207
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.097785e+00, err = 5.940e-02
+
+Iteration 208
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.098233e+00, err = 5.867e-02
+
+Iteration 209
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.098555e+00, err = 5.812e-02
+
+Iteration 210
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.098826e+00, err = 5.767e-02
+
+Iteration 211
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.099108e+00, err = 5.725e-02
+
+Iteration 212
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.099453e+00, err = 5.683e-02
+
+Iteration 213
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.099819e+00, err = 5.639e-02
+
+Iteration 214
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.100186e+00, err = 5.596e-02
+
+Iteration 215
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.100725e+00, err = 5.544e-02
+
+Iteration 216
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.101270e+00, err = 5.471e-02
+
+Iteration 217
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.101822e+00, err = 5.399e-02
+
+Iteration 218
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.102260e+00, err = 5.342e-02
+
+Iteration 219
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.102698e+00, err = 5.291e-02
+
+Iteration 220
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.103188e+00, err = 5.226e-02
+
+Iteration 221
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.103664e+00, err = 5.154e-02
+
+Iteration 222
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.104028e+00, err = 5.087e-02
+
+Iteration 223
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.104604e+00, err = 5.017e-02
+
+Iteration 224
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.105168e+00, err = 4.920e-02
+
+Iteration 225
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.105802e+00, err = 4.827e-02
+
+Iteration 226
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.106401e+00, err = 4.712e-02
+
+Iteration 227
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.106870e+00, err = 4.605e-02
+
+Iteration 228
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.107473e+00, err = 4.517e-02
+
+Iteration 229
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.108125e+00, err = 4.412e-02
+
+Iteration 230
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.108964e+00, err = 4.295e-02
+
+Iteration 231
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.109785e+00, err = 4.146e-02
+
+Iteration 232
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.110402e+00, err = 4.013e-02
+
+Iteration 233
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.111044e+00, err = 3.914e-02
+
+Iteration 234
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.111694e+00, err = 3.818e-02
+
+Iteration 235
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.112323e+00, err = 3.729e-02
+
+Iteration 236
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.112972e+00, err = 3.654e-02
+
+Iteration 237
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.113615e+00, err = 3.585e-02
+
+Iteration 238
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.114178e+00, err = 3.526e-02
+
+Iteration 239
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.114612e+00, err = 3.493e-02
+
+Iteration 240
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.115007e+00, err = 3.483e-02
+
+Iteration 241
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.115364e+00, err = 3.480e-02
+
+Iteration 242
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.115751e+00, err = 3.475e-02
+
+Iteration 243
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116098e+00, err = 3.477e-02
+
+Iteration 244
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116359e+00, err = 3.495e-02
+
+Iteration 245
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116556e+00, err = 3.525e-02
+
+Iteration 246
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116717e+00, err = 3.557e-02
+
+Iteration 247
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116842e+00, err = 3.589e-02
+
+Iteration 248
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.116931e+00, err = 3.617e-02
+
+Iteration 249
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117030e+00, err = 3.639e-02
+
+Iteration 250
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117161e+00, err = 3.657e-02
+
+Iteration 251
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117214e+00, err = 3.674e-02
+
+Iteration 252
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117305e+00, err = 3.689e-02
+
+Iteration 253
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117374e+00, err = 3.704e-02
+
+Iteration 254
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117434e+00, err = 3.717e-02
+
+Iteration 255
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117501e+00, err = 3.725e-02
+
+Iteration 256
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117578e+00, err = 3.734e-02
+
+Iteration 257
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117650e+00, err = 3.744e-02
+
+Iteration 258
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117662e+00, err = 3.754e-02
+
+Iteration 259
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117665e+00, err = 3.763e-02
+
+Iteration 260
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117724e+00, err = 3.775e-02
+
+Iteration 261
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117750e+00, err = 3.787e-02
+
+Iteration 262
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.4143e-02...
+     Line search iteration 3 with step size 1.4770e-04...
+     Line search iteration 4 with step size 1.0960e-09...
+     Line search iteration 5 with step size 6.0356e-20...
+     Line search failed.
+     f = -1.117724e+00, err = 3.794e-02
+
+Iteration 263
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117782e+00, err = 3.810e-02
+
+Iteration 264
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117850e+00, err = 3.800e-02
+
+Iteration 265
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117893e+00, err = 3.801e-02
+
+Iteration 266
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117982e+00, err = 3.800e-02
+
+Iteration 267
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.117994e+00, err = 3.799e-02
+
+Iteration 268
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118055e+00, err = 3.797e-02
+
+Iteration 269
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118075e+00, err = 3.795e-02
+
+Iteration 270
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118110e+00, err = 3.796e-02
+
+Iteration 271
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118127e+00, err = 3.798e-02
+
+Iteration 272
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118140e+00, err = 3.800e-02
+
+Iteration 273
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118168e+00, err = 3.804e-02
+
+Iteration 274
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118185e+00, err = 3.807e-02
+
+Iteration 275
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 6.0408e-02...
+     Line search iteration 3 with step size 2.0606e-04...
+     Line search iteration 4 with step size 2.3895e-09...
+     Line search iteration 5 with step size 3.2132e-19...
+     Line search failed.
+     f = -1.118153e+00, err = 3.810e-02
+
+Iteration 276
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118155e+00, err = 3.821e-02
+
+Iteration 277
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118196e+00, err = 3.813e-02
+
+Iteration 278
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.8100e-01...
+     Line search iteration 3 with step size 4.9094e-03...
+     Line search iteration 4 with step size 3.5150e-06...
+     Line search iteration 5 with step size 1.8005e-12...
+     Line search failed.
+     f = -1.118139e+00, err = 3.815e-02
+
+Iteration 279
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118217e+00, err = 3.834e-02
+
+Iteration 280
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118307e+00, err = 3.813e-02
+
+Iteration 281
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118405e+00, err = 3.793e-02
+
+Iteration 282
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118489e+00, err = 3.772e-02
+
+Iteration 283
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118580e+00, err = 3.748e-02
+
+Iteration 284
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118666e+00, err = 3.726e-02
+
+Iteration 285
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118724e+00, err = 3.710e-02
+
+Iteration 286
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118764e+00, err = 3.695e-02
+
+Iteration 287
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118860e+00, err = 3.673e-02
+
+Iteration 288
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.118968e+00, err = 3.644e-02
+
+Iteration 289
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119086e+00, err = 3.611e-02
+
+Iteration 290
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119208e+00, err = 3.574e-02
+
+Iteration 291
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119361e+00, err = 3.537e-02
+
+Iteration 292
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119455e+00, err = 3.501e-02
+
+Iteration 293
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119563e+00, err = 3.468e-02
+
+Iteration 294
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119657e+00, err = 3.439e-02
+
+Iteration 295
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119730e+00, err = 3.414e-02
+
+Iteration 296
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119825e+00, err = 3.389e-02
+
+Iteration 297
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.119932e+00, err = 3.363e-02
+
+Iteration 298
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120051e+00, err = 3.336e-02
+
+Iteration 299
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120178e+00, err = 3.307e-02
+
+Iteration 300
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120306e+00, err = 3.279e-02
+
+Iteration 301
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120414e+00, err = 3.249e-02
+
+Iteration 302
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120552e+00, err = 3.214e-02
+
+Iteration 303
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120706e+00, err = 3.172e-02
+
+Iteration 304
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.120870e+00, err = 3.120e-02
+
+Iteration 305
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.121042e+00, err = 3.061e-02
+
+Iteration 306
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.121248e+00, err = 3.001e-02
+
+Iteration 307
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.121429e+00, err = 2.941e-02
+
+Iteration 308
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.121649e+00, err = 2.881e-02
+
+Iteration 309
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.121888e+00, err = 2.808e-02
+
+Iteration 310
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.122163e+00, err = 2.732e-02
+
+Iteration 311
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.122570e+00, err = 2.650e-02
+
+Iteration 312
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.123098e+00, err = 2.555e-02
+
+Iteration 313
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.123649e+00, err = 2.453e-02
+
+Iteration 314
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.124183e+00, err = 2.367e-02
+
+Iteration 315
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.124672e+00, err = 2.298e-02
+
+Iteration 316
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.125090e+00, err = 2.243e-02
+
+Iteration 317
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.125441e+00, err = 2.186e-02
+
+Iteration 318
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.125791e+00, err = 2.108e-02
+
+Iteration 319
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126141e+00, err = 1.995e-02
+
+Iteration 320
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126347e+00, err = 1.877e-02
+
+Iteration 321
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126487e+00, err = 1.802e-02
+
+Iteration 322
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126637e+00, err = 1.756e-02
+
+Iteration 323
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126792e+00, err = 1.722e-02
+
+Iteration 324
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126847e+00, err = 1.688e-02
+
+Iteration 325
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.126999e+00, err = 1.663e-02
+
+Iteration 326
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127048e+00, err = 1.648e-02
+
+Iteration 327
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127150e+00, err = 1.641e-02
+
+Iteration 328
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127171e+00, err = 1.643e-02
+
+Iteration 329
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127201e+00, err = 1.650e-02
+
+Iteration 330
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 6.8887e-02...
+     Line search iteration 3 with step size 2.7424e-04...
+     Line search iteration 4 with step size 4.3272e-09...
+     Line search iteration 5 with step size 1.0773e-18...
+     Line search failed.
+     f = -1.127187e+00, err = 1.660e-02
+
+Iteration 331
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127239e+00, err = 1.682e-02
+
+Iteration 332
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127343e+00, err = 1.652e-02
+
+Iteration 333
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127415e+00, err = 1.606e-02
+
+Iteration 334
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127464e+00, err = 1.582e-02
+
+Iteration 335
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.6924e-01...
+     Line search iteration 3 with step size 3.9680e-03...
+     Line search iteration 4 with step size 2.1292e-06...
+     Line search iteration 5 with step size 6.1272e-13...
+     Line search failed.
+     f = -1.127423e+00, err = 1.574e-02
+
+Iteration 336
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127490e+00, err = 1.585e-02
+
+Iteration 337
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127541e+00, err = 1.560e-02
+
+Iteration 338
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127594e+00, err = 1.531e-02
+
+Iteration 339
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127617e+00, err = 1.516e-02
+
+Iteration 340
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127626e+00, err = 1.511e-02
+
+Iteration 341
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127633e+00, err = 1.511e-02
+
+Iteration 342
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127639e+00, err = 1.514e-02
+
+Iteration 343
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127643e+00, err = 1.518e-02
+
+Iteration 344
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127645e+00, err = 1.522e-02
+
+Iteration 345
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2369e-01...
+     Line search iteration 3 with step size 1.6770e-03...
+     Line search iteration 4 with step size 3.0413e-07...
+     Line search iteration 5 with step size 1.0001e-14...
+     Line search failed.
+     f = -1.127581e+00, err = 1.525e-02
+
+Iteration 346
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127637e+00, err = 1.532e-02
+
+Iteration 347
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.127624e+00, err = 1.527e-02
+
+Iteration 348
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127657e+00, err = 1.528e-02
+
+Iteration 349
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127750e+00, err = 1.510e-02
+
+Iteration 350
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127770e+00, err = 1.475e-02
+
+Iteration 351
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127814e+00, err = 1.439e-02
+
+Iteration 352
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127859e+00, err = 1.420e-02
+
+Iteration 353
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127900e+00, err = 1.413e-02
+
+Iteration 354
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.127879e+00, err = 1.411e-02
+
+Iteration 355
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127933e+00, err = 1.421e-02
+
+Iteration 356
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127940e+00, err = 1.402e-02
+
+Iteration 357
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.127966e+00, err = 1.381e-02
+
+Iteration 358
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128005e+00, err = 1.369e-02
+
+Iteration 359
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128023e+00, err = 1.364e-02
+
+Iteration 360
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128035e+00, err = 1.365e-02
+
+Iteration 361
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128061e+00, err = 1.368e-02
+
+Iteration 362
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0453e-01...
+     Line search iteration 3 with step size 1.0229e-03...
+     Line search iteration 4 with step size 9.6994e-08...
+     Line search iteration 5 with step size 8.7207e-16...
+     Line search failed.
+     f = -1.128025e+00, err = 1.372e-02
+
+Iteration 363
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128043e+00, err = 1.384e-02
+
+Iteration 364
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128080e+00, err = 1.375e-02
+
+Iteration 365
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.9402e-01...
+     Line search iteration 3 with step size 5.9639e-03...
+     Line search iteration 4 with step size 5.4637e-06...
+     Line search iteration 5 with step size 4.5815e-12...
+     Line search failed.
+     f = -1.128036e+00, err = 1.378e-02
+
+Iteration 366
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128064e+00, err = 1.394e-02
+
+Iteration 367
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128122e+00, err = 1.376e-02
+
+Iteration 368
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128146e+00, err = 1.365e-02
+
+Iteration 369
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128161e+00, err = 1.362e-02
+
+Iteration 370
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 6.1894e-02...
+     Line search iteration 3 with step size 2.2061e-04...
+     Line search iteration 4 with step size 2.7927e-09...
+     Line search iteration 5 with step size 4.4750e-19...
+     Line search failed.
+     f = -1.128119e+00, err = 1.361e-02
+
+Iteration 371
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128136e+00, err = 1.373e-02
+
+Iteration 372
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128176e+00, err = 1.357e-02
+
+Iteration 373
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128194e+00, err = 1.349e-02
+
+Iteration 374
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128199e+00, err = 1.344e-02
+
+Iteration 375
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128206e+00, err = 1.342e-02
+
+Iteration 376
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.5982e-01...
+     Line search iteration 3 with step size 3.4669e-03...
+     Line search iteration 4 with step size 1.5963e-06...
+     Line search iteration 5 with step size 3.3825e-13...
+     Line search failed.
+     f = -1.128162e+00, err = 1.342e-02
+
+Iteration 377
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128218e+00, err = 1.355e-02
+
+Iteration 378
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128247e+00, err = 1.340e-02
+
+Iteration 379
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128286e+00, err = 1.332e-02
+
+Iteration 380
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.4808e-02...
+     Line search iteration 3 with step size 1.5410e-04...
+     Line search iteration 4 with step size 1.2146e-09...
+     Line search iteration 5 with step size 7.5466e-20...
+     Line search failed.
+     f = -1.128218e+00, err = 1.327e-02
+
+Iteration 381
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128299e+00, err = 1.343e-02
+
+Iteration 382
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128313e+00, err = 1.319e-02
+
+Iteration 383
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128345e+00, err = 1.299e-02
+
+Iteration 384
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128348e+00, err = 1.286e-02
+
+Iteration 385
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.4337e-01...
+     Line search iteration 3 with step size 2.5359e-03...
+     Line search iteration 4 with step size 7.7936e-07...
+     Line search iteration 5 with step size 7.3590e-14...
+     Line search failed.
+     f = -1.128305e+00, err = 1.280e-02
+
+Iteration 386
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128361e+00, err = 1.293e-02
+
+Iteration 387
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128374e+00, err = 1.274e-02
+
+Iteration 388
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128394e+00, err = 1.260e-02
+
+Iteration 389
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0806e-01...
+     Line search iteration 3 with step size 1.1216e-03...
+     Line search iteration 4 with step size 1.1956e-07...
+     Line search iteration 5 with step size 1.3586e-15...
+     Line search failed.
+     f = -1.128353e+00, err = 1.253e-02
+
+Iteration 390
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128376e+00, err = 1.264e-02
+
+Iteration 391
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128394e+00, err = 1.243e-02
+
+Iteration 392
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128425e+00, err = 1.226e-02
+
+Iteration 393
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128467e+00, err = 1.217e-02
+
+Iteration 394
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.8207e-02...
+     Line search iteration 3 with step size 5.8874e-06...
+     Line search iteration 4 with step size 6.1536e-13...
+     Line search iteration 5 with step size 6.7653e-27...
+     Line search failed.
+     f = -1.128430e+00, err = 1.213e-02
+
+Iteration 395
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128459e+00, err = 1.221e-02
+
+Iteration 396
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128461e+00, err = 1.206e-02
+
+Iteration 397
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128509e+00, err = 1.194e-02
+
+Iteration 398
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.128486e+00, err = 1.186e-02
+
+Iteration 399
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.9810e-01...
+     Line search iteration 3 with step size 6.3787e-03...
+     Line search iteration 4 with step size 6.3948e-06...
+     Line search iteration 5 with step size 6.4204e-12...
+     Line search failed.
+     f = -1.128399e+00, err = 1.196e-02
+
+Iteration 400
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128500e+00, err = 1.181e-02
+
+Iteration 401
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128527e+00, err = 1.159e-02
+
+Iteration 402
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0312e-01...
+     Line search iteration 3 with step size 9.7562e-04...
+     Line search iteration 4 with step size 8.6498e-08...
+     Line search iteration 5 with step size 6.7985e-16...
+     Line search failed.
+     f = -1.128485e+00, err = 1.146e-02
+
+Iteration 403
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128537e+00, err = 1.160e-02
+
+Iteration 404
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128609e+00, err = 1.126e-02
+
+Iteration 405
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128654e+00, err = 1.081e-02
+
+Iteration 406
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.3070e-01...
+     Line search iteration 3 with step size 1.9358e-03...
+     Line search iteration 4 with step size 4.1833e-07...
+     Line search iteration 5 with step size 1.9532e-14...
+     Line search failed.
+     f = -1.128605e+00, err = 1.058e-02
+
+Iteration 407
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128665e+00, err = 1.066e-02
+
+Iteration 408
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128748e+00, err = 1.009e-02
+
+Iteration 409
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128805e+00, err = 9.419e-03
+
+Iteration 410
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128830e+00, err = 9.189e-03
+
+Iteration 411
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128877e+00, err = 9.128e-03
+
+Iteration 412
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128900e+00, err = 9.099e-03
+
+Iteration 413
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128949e+00, err = 9.056e-03
+
+Iteration 414
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.128960e+00, err = 8.999e-03
+
+Iteration 415
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129007e+00, err = 8.950e-03
+
+Iteration 416
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129028e+00, err = 8.928e-03
+
+Iteration 417
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129034e+00, err = 8.939e-03
+
+Iteration 418
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129044e+00, err = 8.975e-03
+
+Iteration 419
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129083e+00, err = 9.029e-03
+
+Iteration 420
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1243e-01...
+     Line search iteration 3 with step size 1.2646e-03...
+     Line search iteration 4 with step size 1.5821e-07...
+     Line search iteration 5 with step size 2.4760e-15...
+     Line search failed.
+     f = -1.129026e+00, err = 9.063e-03
+
+Iteration 421
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129078e+00, err = 9.209e-03
+
+Iteration 422
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129182e+00, err = 8.804e-03
+
+Iteration 423
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129198e+00, err = 8.152e-03
+
+Iteration 424
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129202e+00, err = 7.784e-03
+
+Iteration 425
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129226e+00, err = 7.659e-03
+
+Iteration 426
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129232e+00, err = 7.654e-03
+
+Iteration 427
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129236e+00, err = 7.701e-03
+
+Iteration 428
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129258e+00, err = 7.769e-03
+
+Iteration 429
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 9.4703e-02...
+     Line search iteration 3 with step size 7.7228e-04...
+     Line search iteration 4 with step size 5.0939e-08...
+     Line search iteration 5 with step size 2.2161e-16...
+     Line search failed.
+     f = -1.129205e+00, err = 7.843e-03
+
+Iteration 430
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129277e+00, err = 7.997e-03
+
+Iteration 431
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129297e+00, err = 7.820e-03
+
+Iteration 432
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.4161e-01...
+     Line search iteration 3 with step size 2.4346e-03...
+     Line search iteration 4 with step size 7.0718e-07...
+     Line search iteration 5 with step size 5.9652e-14...
+     Line search failed.
+     f = -1.129248e+00, err = 7.613e-03
+
+Iteration 433
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129311e+00, err = 7.634e-03
+
+Iteration 434
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129337e+00, err = 6.885e-03
+
+Iteration 435
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129397e+00, err = 6.047e-03
+
+Iteration 436
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129412e+00, err = 5.786e-03
+
+Iteration 437
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129430e+00, err = 5.712e-03
+
+Iteration 438
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129454e+00, err = 5.700e-03
+
+Iteration 439
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1024e-01...
+     Line search iteration 3 with step size 1.1907e-03...
+     Line search iteration 4 with step size 1.3739e-07...
+     Line search iteration 5 with step size 1.8292e-15...
+     Line search failed.
+     f = -1.129410e+00, err = 5.710e-03
+
+Iteration 440
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129492e+00, err = 5.884e-03
+
+Iteration 441
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.3346e-01...
+     Line search iteration 3 with step size 2.0269e-03...
+     Line search iteration 4 with step size 4.6029e-07...
+     Line search iteration 5 with step size 2.3732e-14...
+     Line search failed.
+     f = -1.129447e+00, err = 5.422e-03
+
+Iteration 442
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129539e+00, err = 5.280e-03
+
+Iteration 443
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129594e+00, err = 4.435e-03
+
+Iteration 444
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129597e+00, err = 4.066e-03
+
+Iteration 445
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129654e+00, err = 4.198e-03
+
+Iteration 446
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2307e-01...
+     Line search iteration 3 with step size 1.6047e-03...
+     Line search iteration 4 with step size 2.6917e-07...
+     Line search iteration 5 with step size 7.5728e-15...
+     Line search failed.
+     f = -1.129636e+00, err = 4.279e-03
+
+Iteration 447
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129684e+00, err = 4.292e-03
+
+Iteration 448
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129759e+00, err = 3.620e-03
+
+Iteration 449
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129795e+00, err = 3.215e-03
+
+Iteration 450
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129804e+00, err = 3.231e-03
+
+Iteration 451
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129817e+00, err = 3.329e-03
+
+Iteration 452
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129849e+00, err = 3.403e-03
+
+Iteration 453
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129850e+00, err = 3.350e-03
+
+Iteration 454
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129880e+00, err = 3.139e-03
+
+Iteration 455
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.7738e-01...
+     Line search iteration 3 with step size 4.6077e-03...
+     Line search iteration 4 with step size 3.0285e-06...
+     Line search iteration 5 with step size 1.3075e-12...
+     Line search failed.
+     f = -1.129826e+00, err = 3.021e-03
+
+Iteration 456
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129912e+00, err = 2.921e-03
+
+Iteration 457
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129945e+00, err = 2.655e-03
+
+Iteration 458
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129959e+00, err = 2.281e-03
+
+Iteration 459
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129976e+00, err = 2.175e-03
+
+Iteration 460
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129987e+00, err = 2.190e-03
+
+Iteration 461
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129994e+00, err = 2.311e-03
+
+Iteration 462
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129999e+00, err = 2.449e-03
+
+Iteration 463
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0234e-01...
+     Line search iteration 3 with step size 9.6909e-04...
+     Line search iteration 4 with step size 8.6074e-08...
+     Line search iteration 5 with step size 6.7896e-16...
+     Line search failed.
+     f = -1.129928e+00, err = 2.574e-03
+
+Iteration 464
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129944e+00, err = 2.658e-03
+
+Iteration 465
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.129934e+00, err = 2.630e-03
+
+Iteration 466
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129988e+00, err = 2.641e-03
+
+Iteration 467
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130028e+00, err = 2.578e-03
+
+Iteration 468
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 7.7523e-02...
+     Line search iteration 3 with step size 4.2789e-04...
+     Line search iteration 4 with step size 1.2964e-08...
+     Line search iteration 5 with step size 1.1899e-17...
+     Line search failed.
+     f = -1.129962e+00, err = 2.452e-03
+
+Iteration 469
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130002e+00, err = 2.478e-03
+
+Iteration 470
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130018e+00, err = 2.380e-03
+
+Iteration 471
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2155e-01...
+     Line search iteration 3 with step size 1.5849e-03...
+     Line search iteration 4 with step size 2.6596e-07...
+     Line search iteration 5 with step size 7.4886e-15...
+     Line search failed.
+     f = -1.129959e+00, err = 2.273e-03
+
+Iteration 472
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.129999e+00, err = 2.326e-03
+
+Iteration 473
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130019e+00, err = 2.257e-03
+
+Iteration 474
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.3795e-01...
+     Line search iteration 3 with step size 2.2848e-03...
+     Line search iteration 4 with step size 6.1645e-07...
+     Line search iteration 5 with step size 4.4863e-14...
+     Line search failed.
+     f = -1.129979e+00, err = 2.269e-03
+
+Iteration 475
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130028e+00, err = 2.358e-03
+
+Iteration 476
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130056e+00, err = 2.321e-03
+
+Iteration 477
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.7669e-01...
+     Line search iteration 3 with step size 4.6453e-03...
+     Line search iteration 4 with step size 3.1281e-06...
+     Line search iteration 5 with step size 1.4175e-12...
+     Line search failed.
+     f = -1.130006e+00, err = 2.373e-03
+
+Iteration 478
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130055e+00, err = 2.469e-03
+
+Iteration 479
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 9.6759e-02...
+     Line search iteration 3 with step size 8.2194e-04...
+     Line search iteration 4 with step size 5.8811e-08...
+     Line search iteration 5 with step size 3.0106e-16...
+     Line search failed.
+     f = -1.129999e+00, err = 2.443e-03
+
+Iteration 480
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130029e+00, err = 2.539e-03
+
+Iteration 481
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130032e+00, err = 2.512e-03
+
+Iteration 482
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130033e+00, err = 2.574e-03
+
+Iteration 483
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130034e+00, err = 2.628e-03
+
+Iteration 484
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130034e+00, err = 2.678e-03
+
+Iteration 485
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.0993e-01...
+     Line search iteration 3 with step size 7.5726e-03...
+     Line search iteration 4 with step size 9.5091e-06...
+     Line search iteration 5 with step size 1.4975e-11...
+     Line search failed.
+     f = -1.130010e+00, err = 2.723e-03
+
+Iteration 486
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130034e+00, err = 2.773e-03
+
+Iteration 487
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130062e+00, err = 2.770e-03
+
+Iteration 488
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.9131e-01...
+     Line search iteration 3 with step size 5.8354e-03...
+     Line search iteration 4 with step size 5.2681e-06...
+     Line search iteration 5 with step size 4.2896e-12...
+     Line search failed.
+     f = -1.130016e+00, err = 2.816e-03
+
+Iteration 489
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130053e+00, err = 2.871e-03
+
+Iteration 490
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.5236e-01...
+     Line search iteration 3 with step size 3.0545e-03...
+     Line search iteration 4 with step size 1.2034e-06...
+     Line search iteration 5 with step size 1.8672e-13...
+     Line search failed.
+     f = -1.130006e+00, err = 2.866e-03
+
+Iteration 491
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130061e+00, err = 2.914e-03
+
+Iteration 492
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1676e-01...
+     Line search iteration 3 with step size 1.4156e-03...
+     Line search iteration 4 with step size 2.0558e-07...
+     Line search iteration 5 with step size 4.3346e-15...
+     Line search failed.
+     f = -1.130007e+00, err = 2.896e-03
+
+Iteration 493
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130032e+00, err = 2.957e-03
+
+Iteration 494
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130050e+00, err = 2.885e-03
+
+Iteration 495
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130058e+00, err = 2.856e-03
+
+Iteration 496
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130068e+00, err = 2.862e-03
+
+Iteration 497
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 7.9680e-02...
+     Line search iteration 3 with step size 4.6762e-04...
+     Line search iteration 4 with step size 1.6011e-08...
+     Line search iteration 5 with step size 1.8770e-17...
+     Line search failed.
+     f = -1.130003e+00, err = 2.882e-03
+
+Iteration 498
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130043e+00, err = 2.925e-03
+
+Iteration 499
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130043e+00, err = 2.926e-03
+
+Iteration 500
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130061e+00, err = 2.966e-03
+
+Iteration 501
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130073e+00, err = 3.005e-03
+
+Iteration 502
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2085e-01...
+     Line search iteration 3 with step size 1.5706e-03...
+     Line search iteration 4 with step size 2.6188e-07...
+     Line search iteration 5 with step size 7.2795e-15...
+     Line search failed.
+     f = -1.130031e+00, err = 3.045e-03
+
+Iteration 503
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130085e+00, err = 3.083e-03
+
+Iteration 504
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130094e+00, err = 3.087e-03
+
+Iteration 505
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130096e+00, err = 3.111e-03
+
+Iteration 506
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2930e-01...
+     Line search iteration 3 with step size 1.9090e-03...
+     Line search iteration 4 with step size 4.1005e-07...
+     Line search iteration 5 with step size 1.8916e-14...
+     Line search failed.
+     f = -1.130062e+00, err = 3.128e-03
+
+Iteration 507
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.6619e-02...
+     Line search iteration 3 with step size 4.5025e-06...
+     Line search iteration 4 with step size 3.3040e-13...
+     Line search iteration 5 with step size 1.7166e-27...
+     Line search failed.
+     f = -1.130034e+00, err = 3.153e-03
+
+Iteration 508
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130040e+00, err = 3.171e-03
+
+Iteration 509
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130041e+00, err = 3.185e-03
+
+Iteration 510
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.9736e-01...
+     Line search iteration 3 with step size 6.3671e-03...
+     Line search iteration 4 with step size 6.4189e-06...
+     Line search iteration 5 with step size 6.5174e-12...
+     Line search failed.
+     f = -1.130016e+00, err = 3.220e-03
+
+Iteration 511
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130039e+00, err = 3.257e-03
+
+Iteration 512
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130081e+00, err = 3.264e-03
+
+Iteration 513
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.4150e-02...
+     Line search iteration 3 with step size 1.5055e-04...
+     Line search iteration 4 with step size 1.1606e-09...
+     Line search iteration 5 with step size 6.8966e-20...
+     Line search failed.
+     f = -1.130040e+00, err = 3.300e-03
+
+Iteration 514
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130096e+00, err = 3.324e-03
+
+Iteration 515
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.0889e-01...
+     Line search iteration 3 with step size 7.4785e-03...
+     Line search iteration 4 with step size 9.2532e-06...
+     Line search iteration 5 with step size 1.4149e-11...
+     Line search failed.
+     f = -1.130061e+00, err = 3.336e-03
+
+Iteration 516
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130095e+00, err = 3.341e-03
+
+Iteration 517
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130096e+00, err = 3.332e-03
+
+Iteration 518
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130099e+00, err = 3.297e-03
+
+Iteration 519
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130103e+00, err = 3.187e-03
+
+Iteration 520
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.8613e-01...
+     Line search iteration 3 with step size 5.3740e-03...
+     Line search iteration 4 with step size 4.3535e-06...
+     Line search iteration 5 with step size 2.8546e-12...
+     Line search failed.
+     f = -1.130055e+00, err = 2.924e-03
+
+Iteration 521
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130088e+00, err = 2.510e-03
+
+Iteration 522
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130065e+00, err = 2.080e-03
+
+Iteration 523
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130094e+00, err = 1.874e-03
+
+Iteration 524
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.5473e-01...
+     Line search iteration 3 with step size 3.1931e-03...
+     Line search iteration 4 with step size 1.3323e-06...
+     Line search iteration 5 with step size 2.3183e-13...
+     Line search failed.
+     f = -1.130034e+00, err = 1.799e-03
+
+Iteration 525
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130088e+00, err = 1.809e-03
+
+Iteration 526
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1839e-02...
+     Line search iteration 3 with step size 1.6241e-06...
+     Line search iteration 4 with step size 3.0561e-14...
+     Line search iteration 5 with step size 1.2622e-29...
+     Line search failed.
+     f = -1.130069e+00, err = 1.816e-03
+
+Iteration 527
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130087e+00, err = 1.841e-03
+
+Iteration 528
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.8005e-01...
+     Line search iteration 3 with step size 4.8421e-03...
+     Line search iteration 4 with step size 3.4090e-06...
+     Line search iteration 5 with step size 1.6885e-12...
+     Line search failed.
+     f = -1.130071e+00, err = 1.813e-03
+
+Iteration 529
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130123e+00, err = 1.801e-03
+
+Iteration 530
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130093e+00, err = 1.794e-03
+
+Iteration 531
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130102e+00, err = 1.810e-03
+
+Iteration 532
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130119e+00, err = 1.799e-03
+
+Iteration 533
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.2250e-01...
+     Line search iteration 3 with step size 1.6302e-03...
+     Line search iteration 4 with step size 2.8491e-07...
+     Line search iteration 5 with step size 8.7006e-15...
+     Line search failed.
+     f = -1.130057e+00, err = 1.805e-03
+
+Iteration 534
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130127e+00, err = 1.819e-03
+
+Iteration 535
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130144e+00, err = 1.819e-03
+
+Iteration 536
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.0798e-01...
+     Line search iteration 3 with step size 7.3622e-03...
+     Line search iteration 4 with step size 8.9089e-06...
+     Line search iteration 5 with step size 1.3030e-11...
+     Line search failed.
+     f = -1.130099e+00, err = 1.826e-03
+
+Iteration 537
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130116e+00, err = 1.835e-03
+
+Iteration 538
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130117e+00, err = 1.833e-03
+
+Iteration 539
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130118e+00, err = 1.829e-03
+
+Iteration 540
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130133e+00, err = 1.833e-03
+
+Iteration 541
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.3656e-01...
+     Line search iteration 3 with step size 2.2256e-03...
+     Line search iteration 4 with step size 5.8165e-07...
+     Line search iteration 5 with step size 3.9717e-14...
+     Line search failed.
+     f = -1.130112e+00, err = 1.844e-03
+
+Iteration 542
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130118e+00, err = 1.860e-03
+
+Iteration 543
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130103e+00, err = 1.861e-03
+
+Iteration 544
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130138e+00, err = 1.873e-03
+
+Iteration 545
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.8018e-01...
+     Line search iteration 3 with step size 4.9257e-03...
+     Line search iteration 4 with step size 3.5833e-06...
+     Line search iteration 5 with step size 1.8949e-12...
+     Line search failed.
+     f = -1.130078e+00, err = 1.887e-03
+
+Iteration 546
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130126e+00, err = 1.907e-03
+
+Iteration 547
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130133e+00, err = 1.919e-03
+
+Iteration 548
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.7068e-01...
+     Line search iteration 3 with step size 4.2236e-03...
+     Line search iteration 4 with step size 2.5237e-06...
+     Line search iteration 5 with step size 9.0054e-13...
+     Line search failed.
+     f = -1.130071e+00, err = 1.947e-03
+
+Iteration 549
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130099e+00, err = 1.985e-03
+
+Iteration 550
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.1022e-01...
+     Line search iteration 3 with step size 1.2035e-03...
+     Line search iteration 4 with step size 1.4194e-07...
+     Line search iteration 5 with step size 1.9742e-15...
+     Line search failed.
+     f = -1.130065e+00, err = 2.007e-03
+
+Iteration 551
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130106e+00, err = 2.039e-03
+
+Iteration 552
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130112e+00, err = 2.038e-03
+
+Iteration 553
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130131e+00, err = 2.044e-03
+
+Iteration 554
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130132e+00, err = 2.044e-03
+
+Iteration 555
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130109e+00, err = 2.042e-03
+
+Iteration 556
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130144e+00, err = 2.037e-03
+
+Iteration 557
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130145e+00, err = 2.036e-03
+
+Iteration 558
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130146e+00, err = 2.034e-03
+
+Iteration 559
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130127e+00, err = 2.036e-03
+
+Iteration 560
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0626e-01...
+     Line search iteration 3 with step size 1.0832e-03...
+     Line search iteration 4 with step size 1.1142e-07...
+     Line search iteration 5 with step size 1.1787e-15...
+     Line search failed.
+     f = -1.130061e+00, err = 2.038e-03
+
+Iteration 561
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130092e+00, err = 2.041e-03
+
+Iteration 562
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130129e+00, err = 2.044e-03
+
+Iteration 563
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130130e+00, err = 2.047e-03
+
+Iteration 564
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130132e+00, err = 2.051e-03
+
+Iteration 565
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 9.5575e-02...
+     Line search iteration 3 with step size 7.9622e-04...
+     Line search iteration 4 with step size 5.4804e-08...
+     Line search iteration 5 with step size 2.5962e-16...
+     Line search failed.
+     f = -1.130105e+00, err = 2.051e-03
+
+Iteration 566
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.9877e-01...
+     Line search iteration 3 with step size 6.5046e-03...
+     Line search iteration 4 with step size 6.7448e-06...
+     Line search iteration 5 with step size 7.2447e-12...
+     Line search failed.
+     f = -1.130058e+00, err = 2.053e-03
+
+Iteration 567
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130142e+00, err = 2.053e-03
+
+Iteration 568
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 5.0000e-01...
+     Line search iteration 3 with step size 2.5000e-01...
+     Line search iteration 4 with step size 1.2500e-01...
+     Line search iteration 5 with step size 6.2500e-02...
+     Line search failed.
+     f = -1.130126e+00, err = 2.055e-03
+
+Iteration 569
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 1.0540e-01...
+     Line search iteration 3 with step size 1.0575e-03...
+     Line search iteration 4 with step size 1.0540e-07...
+     Line search iteration 5 with step size 1.0469e-15...
+     Line search failed.
+     f = -1.130079e+00, err = 2.063e-03
+
+Iteration 570
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130119e+00, err = 2.069e-03
+
+Iteration 571
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 7.4100e-02...
+     Line search iteration 3 with step size 3.7860e-04...
+     Line search iteration 4 with step size 9.8330e-09...
+     Line search iteration 5 with step size 6.6327e-18...
+     Line search failed.
+     f = -1.130072e+00, err = 2.077e-03
+
+Iteration 572
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130105e+00, err = 2.087e-03
+
+Iteration 573
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.130118e+00, err = 2.091e-03
+
+Iteration 574
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 7.6053e-02...
+     Line search iteration 3 with step size 4.0858e-04...
+     Line search iteration 4 with step size 1.1729e-08...
+     Line search iteration 5 with step size 9.6662e-18...
+     Line search failed.
+     f = -1.130090e+00, err = 2.096e-03
+
+Iteration 575
+     CVXPY failed to solve local QP; resetting quasi-Hessian and performing gradient descent step...
+
+Iteration 575
+     f = -1.130173e+00, err = 2.106e-03
+
+Iteration 576
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 3.8168e+03...
+     Line search successful.
+     f = -2.517733e+00, err = 2.101e-03
+
+Iteration 577
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search iteration 2 with step size 2.5515e-02...
+     Line search iteration 3 with step size 1.6970e-05...
+     Line search iteration 4 with step size 7.5164e-12...
+     Line search iteration 5 with step size 1.4750e-24...
+     Line search failed.
+     f = -3.881827e-01, err = 4.150e-01
+
+Iteration 578
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -6.465190e-01, err = 3.844e-01
+
+Iteration 579
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -6.737230e-01, err = 2.724e-01
+
+Iteration 580
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -7.045311e-01, err = 2.643e-01
+
+Iteration 581
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -7.412162e-01, err = 2.583e-01
+
+Iteration 582
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -7.806701e-01, err = 2.515e-01
+
+Iteration 583
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -8.154274e-01, err = 2.404e-01
+
+Iteration 584
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -8.464347e-01, err = 2.270e-01
+
+Iteration 585
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -8.755661e-01, err = 2.135e-01
+
+Iteration 586
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.058364e-01, err = 1.993e-01
+
+Iteration 587
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.338403e-01, err = 1.828e-01
+
+Iteration 588
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.576383e-01, err = 1.644e-01
+
+Iteration 589
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.749284e-01, err = 1.458e-01
+
+Iteration 590
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.865204e-01, err = 1.296e-01
+
+Iteration 591
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -9.956622e-01, err = 1.191e-01
+
+Iteration 592
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.004688e+00, err = 1.119e-01
+
+Iteration 593
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.013012e+00, err = 1.053e-01
+
+Iteration 594
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.019302e+00, err = 9.962e-02
+
+Iteration 595
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.023667e+00, err = 9.479e-02
+
+Iteration 596
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.027495e+00, err = 9.129e-02
+
+Iteration 597
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.032695e+00, err = 8.790e-02
+
+Iteration 598
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.037520e+00, err = 8.293e-02
+
+Iteration 599
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.040703e+00, err = 7.833e-02
+
+Iteration 600
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.042837e+00, err = 7.544e-02
+
+Iteration 601
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.044379e+00, err = 7.369e-02
+
+Iteration 602
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.045584e+00, err = 7.271e-02
+
+Iteration 603
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.046498e+00, err = 7.217e-02
+
+Iteration 604
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.047316e+00, err = 7.186e-02
+
+Iteration 605
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.048350e+00, err = 7.159e-02
+
+Iteration 606
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.049429e+00, err = 7.124e-02
+
+Iteration 607
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.050451e+00, err = 7.084e-02
+
+Iteration 608
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.051648e+00, err = 7.033e-02
+
+Iteration 609
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.052767e+00, err = 6.977e-02
+
+Iteration 610
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.053530e+00, err = 6.949e-02
+
+Iteration 611
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.054058e+00, err = 6.949e-02
+
+Iteration 612
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.054547e+00, err = 6.951e-02
+
+Iteration 613
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.054931e+00, err = 6.956e-02
+
+Iteration 614
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.055331e+00, err = 6.949e-02
+
+Iteration 615
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.055645e+00, err = 6.948e-02
+
+Iteration 616
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.055853e+00, err = 6.954e-02
+
+Iteration 617
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056066e+00, err = 6.964e-02
+
+Iteration 618
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056245e+00, err = 6.979e-02
+
+Iteration 619
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056357e+00, err = 6.997e-02
+
+Iteration 620
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056484e+00, err = 7.014e-02
+
+Iteration 621
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056597e+00, err = 7.032e-02
+
+Iteration 622
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056646e+00, err = 7.048e-02
+
+Iteration 623
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056785e+00, err = 7.060e-02
+
+Iteration 624
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.056938e+00, err = 7.065e-02
+
+Iteration 625
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.057329e+00, err = 7.059e-02
+
+Iteration 626
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.057886e+00, err = 7.031e-02
+
+Iteration 627
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.058590e+00, err = 6.964e-02
+
+Iteration 628
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.059317e+00, err = 6.865e-02
+
+Iteration 629
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.060006e+00, err = 6.750e-02
+
+Iteration 630
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.060655e+00, err = 6.631e-02
+
+Iteration 631
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.061269e+00, err = 6.513e-02
+
+Iteration 632
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.061869e+00, err = 6.412e-02
+
+Iteration 633
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.062472e+00, err = 6.318e-02
+
+Iteration 634
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.062999e+00, err = 6.242e-02
+
+Iteration 635
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.063407e+00, err = 6.191e-02
+
+Iteration 636
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.063722e+00, err = 6.163e-02
+
+Iteration 637
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.064140e+00, err = 6.147e-02
+
+Iteration 638
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.064436e+00, err = 6.139e-02
+
+Iteration 639
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.064716e+00, err = 6.147e-02
+
+Iteration 640
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.064879e+00, err = 6.163e-02
+
+Iteration 641
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.065105e+00, err = 6.164e-02
+
+Iteration 642
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.065524e+00, err = 6.153e-02
+
+Iteration 643
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.066035e+00, err = 6.127e-02
+
+Iteration 644
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.066543e+00, err = 6.087e-02
+
+Iteration 645
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.067048e+00, err = 6.045e-02
+
+Iteration 646
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.067546e+00, err = 6.001e-02
+
+Iteration 647
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.068003e+00, err = 5.954e-02
+
+Iteration 648
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.068383e+00, err = 5.911e-02
+
+Iteration 649
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.068680e+00, err = 5.888e-02
+
+Iteration 650
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.068886e+00, err = 5.886e-02
+
+Iteration 651
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069115e+00, err = 5.900e-02
+
+Iteration 652
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069245e+00, err = 5.923e-02
+
+Iteration 653
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069302e+00, err = 5.949e-02
+
+Iteration 654
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069366e+00, err = 5.973e-02
+
+Iteration 655
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069428e+00, err = 5.999e-02
+
+Iteration 656
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069456e+00, err = 6.022e-02
+
+Iteration 657
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069473e+00, err = 6.039e-02
+
+Iteration 658
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069540e+00, err = 6.049e-02
+
+Iteration 659
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069577e+00, err = 6.065e-02
+
+Iteration 660
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069616e+00, err = 6.084e-02
+
+Iteration 661
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069688e+00, err = 6.105e-02
+
+Iteration 662
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069799e+00, err = 6.124e-02
+
+Iteration 663
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069875e+00, err = 6.143e-02
+
+Iteration 664
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.069914e+00, err = 6.163e-02
+
+Iteration 665
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.070007e+00, err = 6.182e-02
+
+Iteration 666
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.070080e+00, err = 6.196e-02
+
+Iteration 667
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.070146e+00, err = 6.204e-02
+
+Iteration 668
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.070383e+00, err = 6.206e-02
+
+Iteration 669
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.

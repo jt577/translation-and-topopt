@@ -1,0 +1,73 @@
+Input parameters:
+k1 = 2.1
+k2 = 1.9
+mu1 = 1.0
+mu2 = 0.1
+sig1 = 1.0
+sig2 = 0.1
+f = 0.5
+upper = 4.0
+npts = 40
+n_samples = 100
+calc_type = shear
+bound_type = lower_1
+T0 = /data2/jt577/2026/02.2026/translation/02.07/out_lower_1_sameK/T_final.npy
+--------------------------------------------------
+Using device: cpu
+Projecting initial guess onto feasible set...
+Starting optimization with projected L-BFGS...
+
+Iteration 1
+     f = -1.063347e+00, err = 2.147e-01
+
+Iteration 2
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.189197e+00, err = 2.140e-01
+
+Iteration 3
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.198346e+00, err = 7.253e-02
+
+Iteration 4
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.200624e+00, err = 3.986e-02
+
+Iteration 5
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.201524e+00, err = 2.688e-02
+
+Iteration 6
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.201912e+00, err = 2.041e-02
+
+Iteration 7
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.202149e+00, err = 1.747e-02
+
+Iteration 8
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.202357e+00, err = 1.548e-02
+
+Iteration 9
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.202563e+00, err = 1.334e-02
+
+Iteration 10
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.202699e+00, err = 1.082e-02
+
+Iteration 11
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -1.202803e+00, err = 8.432e-03
+
+Iteration 12

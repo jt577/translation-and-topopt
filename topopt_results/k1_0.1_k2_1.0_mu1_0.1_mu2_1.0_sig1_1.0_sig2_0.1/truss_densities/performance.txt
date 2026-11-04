@@ -1,0 +1,5 @@
+name, conductivity, shear_modulus
+cubic_669, 0.425383, 0.348264
+cubic_223, 0.425383, 0.348264
+cubic_250, 0.423696, 0.349673
+cubic_688, 0.423696, 0.349673

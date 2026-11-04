@@ -1,0 +1,3 @@
+Contents of this folder are located in:
+/data2/jt577/2026/02.2026/translation/02.07/out_upper_2
+/data2/jt577/2026/02.2026/translation/02.07/out_upper_2_refinement

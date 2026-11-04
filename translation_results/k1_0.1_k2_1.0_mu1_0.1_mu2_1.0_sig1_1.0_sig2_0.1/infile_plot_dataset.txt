@@ -1,0 +1,19 @@
+# Input file for numerical translation method
+
+# Phase properties (k is bulk modulus, mu is shear modulus, sig is conductivity)
+k1 0.1
+k2 1.0
+mu1 0.1
+mu2 1.0
+sig1 1.0
+sig2 0.1
+
+# Visualization
+f 0.5          # volume fraction of phase 1 (just for visualization)
+
+# Type of bound
+bound_types lower_2 upper_1
+calc_type shear
+T_paths /data2/jt577/2026/papers/translation_and_topopt/translation_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/lower_2/T_final.npy /data2/jt577/2026/papers/translation_and_topopt/translation_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/upper_1/T_final.npy
+dataset_paths /data2/jt577/2026/papers/translation_and_topopt/topopt_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/data1_shearcond.csv /data2/jt577/2026/papers/translation_and_topopt/topopt_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/data2_shearcond.csv
+special_dataset_paths /data2/jt577/2026/papers/translation_and_topopt/topopt_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/data_TPMS_shearcond.csv        /data2/jt577/2026/papers/translation_and_topopt/topopt_results/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_1.0_sig2_0.1/Pinterp_shearcond.csv    

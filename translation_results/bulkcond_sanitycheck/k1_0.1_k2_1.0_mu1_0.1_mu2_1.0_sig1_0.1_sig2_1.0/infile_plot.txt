@@ -1,0 +1,17 @@
+# Input file for numerical translation method
+
+# Phase properties (k is bulk modulus, mu is shear modulus, sig is conductivity)
+k1 0.1
+k2 1.0
+mu1 0.1
+mu2 1.0
+sig1 0.1
+sig2 1.0
+
+# Visualization
+f 0.5          # volume fraction of phase 1 (just for visualization)
+
+# Type of bound
+bound_types lower_1 upper_2
+calc_type bulk
+T_paths /data2/jt577/2026/papers/translation_and_topopt/translation_results/bulkcond_sanitycheck/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_0.1_sig2_1.0/lower_1/T_final.npy             /data2/jt577/2026/papers/translation_and_topopt/translation_results/bulkcond_sanitycheck/k1_0.1_k2_1.0_mu1_0.1_mu2_1.0_sig1_0.1_sig2_1.0/upper_2/T_final.npy

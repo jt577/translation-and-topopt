@@ -1,0 +1,17 @@
+# Input file for numerical translation method
+
+# Phase properties (k is bulk modulus, mu is shear modulus, sig is conductivity)
+k1 2.1
+k2 1.9
+mu1 1.0
+mu2 0.1
+sig1 0.1
+sig2 1.0
+
+# Visualization
+f 0.5          # volume fraction of phase 1 (just for visualization)
+
+# Type of bound
+bound_types lower_2 upper_1
+calc_type shear
+T_paths /data2/jt577/2026/papers/translation_and_topopt/translation_results/k1_2.1_k2_1.9_mu1_1.0_mu2_0.1_sig1_0.1_sig2_1.0/lower_2/T_final.npy         /data2/jt577/2026/papers/translation_and_topopt/translation_results/k1_2.1_k2_1.9_mu1_1.0_mu2_0.1_sig1_0.1_sig2_1.0/upper_1/T_final.npy

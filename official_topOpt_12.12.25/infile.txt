@@ -1,0 +1,47 @@
+# Input file for topology optimization
+
+# Grid
+gridShape           40 40 40                                    # ints: Number of grid points in each dim
+
+
+# Cell shape (choose one of the 2 below)
+Lattice                                                         # lattice vectors (columns) of unit cell (Note: changing lattice volume does not affect conductivity/elasticity)
+1.00 0.00 0.00  
+0.00 1.00 0.00
+0.00 0.00 1.00
+# ucparams 1.0 1.0 1.0 0.3 0.5 0.9                              # floats: unit cell parameters a, b, c, alpha, beta, gamma
+
+
+# Optimization parameters
+rmin                        4                                   # int: Radius for the SIMP density filter
+SIMP_exp                    2.5 4.5 4.5 6.5 2.0                 # floats: (initial exponent for SIMP conductivity, final exponent for SIMP conductivity, initial exponent for SIMP shear modulus, final exponent for SIMP shear modulus, stepsize between)
+volFrac                     1.0                                 # float: Volume fraction of phase 1
+weight_conductivity         0.3                                 # float: Weighting for conductivity in the objective function
+weight_bulk                 0.4                                 # float: Weighting for bulk modulus in the objective function
+weight_shear                0.3                                 # float: Weighting for shear modulus in the objective function
+maxit                       100                                 # int: Max iterations for minimzation
+tol                         1e-1                                # float: Tolerance for minimization error
+hist                        10                                  # int: BFGS history
+
+
+# Phase properties
+k1                          0.01                                # float: bulk modulus of phase 1
+k2                          1.0                                 # float: bulk modulus of phase 2
+mu1                         0.01                                # float: shear modulus of phase 1
+mu2                         1.0                                 # float: shear modulus of phase 2
+sig1                        1.0                                 # float: conductivity of phase 1
+sig2                        0.01                                # float: conductivity of phase 2
+
+
+# Initial density field (choose one of the 3 below)
+# cutoff                      100.0                                                                                     # float: energy cutoff for initial random density field (if density_file not specified)
+# seed                        P invert                                                                                 # choice for common seed for initial density. "invert" indicator indicates whether to invert the field or not
+density_file        /data2/jt577/2025/June_2025/top_opt/official_topOpt_6.17.25/out5_2/density_final.pt                 # Optional: path to initial density file
+
+
+# Run type
+run_type            opt                                 # (single, opt): Type of run
+
+
+# Dumping
+dumpFreq            1                                  # int: Frequency to dump plots

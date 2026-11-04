@@ -1,0 +1,46 @@
+Input parameters:
+k1 = 2.1
+k2 = 1.9
+mu1 = 1.0
+mu2 = 0.1
+sig1 = 1.0
+sig2 = 0.1
+f = 0.5
+upper = 4.0
+npts = 40
+n_samples = 50
+calc_type = shear
+bound_type = upper_2
+T0 = /data2/jt577/2026/02.2026/translation/02.07/out_upper_2_sameK_refined2/translation_matrices/T_iter8.npy
+--------------------------------------------------
+Using device: cpu
+Projecting initial guess onto feasible set...
+Starting optimization with projected L-BFGS...
+
+Iteration 1
+     f = -2.712533e-01, err = 1.112e-02
+
+Iteration 2
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -2.713839e-01, err = 1.111e-02
+
+Iteration 3
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -2.716423e-01, err = 9.321e-03
+
+Iteration 4
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -2.718726e-01, err = 6.798e-03
+
+Iteration 5
+     Line search iteration 1 with step size 1.0000e+00...
+     Line search successful.
+     f = -2.719976e-01, err = 5.221e-03
+
+Iteration 6
+     CVXPY failed to solve local QP; resetting quasi-Hessian and performing gradient descent step...
+
+Iteration 6

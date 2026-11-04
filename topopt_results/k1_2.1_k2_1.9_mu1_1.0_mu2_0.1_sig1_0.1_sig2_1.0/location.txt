@@ -1,0 +1,2 @@
+data_shearcond.csv is in /data2/jt577/2026/01.2026/topopt/01.12/cubic_runs
+Pinterp_bulkcond.csv and Pinterp_shearcond.csv are in /data2/jt577/2026/01.2026/topopt/01.12/P_interp_sameK

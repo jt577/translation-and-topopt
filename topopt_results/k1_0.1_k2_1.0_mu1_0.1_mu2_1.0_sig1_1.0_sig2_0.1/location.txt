@@ -1,0 +1,5 @@
+Location of data:
+data1_shearcond.csv is in /data2/jt577/2025/December_2025/topopt/Dec14
+data2_shearcond.csv is in /data2/jt577/2026/01.2026/topopt/01.11
+Pinterp_bulkcond.csv and Pinterp_shearcond.csv is in /data2/jt577/2026/01.2026/topopt/01.12/P_interp
+data_TPMS_shearcond.csv is in /data2/jt577/2025/December_2025/topopt/Dec8 as final_observables_dataset.csv
