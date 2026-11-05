@@ -1,0 +1,6 @@
+Numerical quasiconvexity convergence. Each run contributes its smallest eigenvalue found over the independent rotation audit and local searches. The upper panel shows the percentage of independently sampled audit rotations whose minimum eigenvalue is below the negative audit tolerance (-1e-08). The black line shows the mean percentage across saved optimization runs; shading spans the full run range. This counts violating rotations, rather than pooling all eigenvalues within each projected matrix. The lower panel shows the mean worst eigenvalue across saved optimization runs. The lower panel uses a symmetric logarithmic scale with a linear interval [-1e-06, +1e-06] to preserve the signs of eigenvalues crossing zero. The horizontal gray line marks zero. Both panels use the original paper's reciprocal-rotation horizontal axis. Positive mean values do not establish positivity for every run or rotation. This plot is not the mean or standard deviation of eigenvalues over the audit rotations within a single run.
+
+Source audit: /data2/jt577/2026/papers/translation-and-topopt/quasiconvexity_check/convergence_audit/results.json
+Audit rotations per matrix: 100000
+Local starts per matrix: 24
+Included run counts: N=10: 4, N=20: 3, N=50: 5, N=100: 4, N=200: 5.
